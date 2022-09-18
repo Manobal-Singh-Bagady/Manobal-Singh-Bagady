@@ -27,7 +27,7 @@
 - ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 - ![MatplotLib](https://img.shields.io/badge/MatplotLib-14354C?style=for-the-badge&logo=python&logoColor=white)
 - ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-- 
+ 
 
 ## 🎖️ Achievements
 
