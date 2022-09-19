@@ -32,7 +32,7 @@
 ## 🎖️ Achievements
 
 - 5 ⭐ Hackerrank in Python
-- 5 ⭐ Hackerrank in C++
+- 4 ⭐ Hackerrank in C++
 - 2 ⭐ CodeChef
 
 ## 👨‍💻Setup
