@@ -72,7 +72,10 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199082816824/)
 
+## ⚡ Recent Projects:
 
+- [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Projects/tree/main/Python/Major%20Projects/01%20Speed%20of%20Loops%20in%20Python)
+- [Calender GUI](https://github.com/Manobal-Singh-Bagady/Projects/tree/main/Python/Minor%20Projects/03%20Calendar%20GUI)
 
 
 
