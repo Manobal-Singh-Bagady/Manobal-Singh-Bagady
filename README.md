@@ -76,8 +76,8 @@
 
 ## ⚡ Recent Projects:
 
-- [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Projects/tree/main/Python/Major%20Projects/01%20Speed%20of%20Loops%20in%20Python)
-- [Calender GUI](https://github.com/Manobal-Singh-Bagady/Projects/tree/main/Python/Minor%20Projects/03%20Calendar%20GUI)
+- [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Speed-of-Loops-in-Python)
+- [Calender GUI](https://github.com/Manobal-Singh-Bagady/Calander-GUI)
 
 
 
