@@ -35,6 +35,8 @@
 - 4 ⭐ Hackerrank in C++
 - 2 ⭐ CodeChef
 
+[![@manobal's Holopin board](https://holopin.io/api/user/board?user=manobal)](https://holopin.io/@manobal)
+
 ## 👨‍💻Setup
 
 - ![Lenovo](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
