@@ -76,7 +76,7 @@
 
 ## ⚡ Recent Projects:
 
-- [HTMLtags.github.io](https://manobal-singh-bagady.github.io/HTMLtags.github.io/)
+- [HTML tags](https://manobal-singh-bagady.github.io/HTML-tags/)
 - [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Speed-of-Loops-in-Python)
 
 
