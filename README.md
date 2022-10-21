@@ -76,8 +76,9 @@
 
 ## ⚡ Recent Projects:
 
+- [HTMLtags.github.io](https://manobal-singh-bagady.github.io/HTMLtags.github.io/)
 - [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Speed-of-Loops-in-Python)
-- [Calender GUI](https://github.com/Manobal-Singh-Bagady/Calander-GUI)
+
 
 
 
