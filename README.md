@@ -88,11 +88,11 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+1. ❌ Closed PR [#21](https://github.com/DSA-n-DEV/Daily-Questions/pull/21) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+2. 🎉 Merged PR [#19](https://github.com/DSA-n-DEV/Daily-Questions/pull/19) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+3. 🎉 Merged PR [#18](https://github.com/DSA-n-DEV/Daily-Questions/pull/18) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+4. 🎉 Merged PR [#2](https://github.com/DSA-n-DEV/Resources-Library/pull/2) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)
+5. ❌ Closed PR [#16](https://github.com/DSA-n-DEV/Daily-Questions/pull/16) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
 <!--END_SECTION:activity-->
 
 </details>
