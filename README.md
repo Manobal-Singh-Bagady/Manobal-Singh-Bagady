@@ -1,5 +1,4 @@
-### Hello there! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50px" height="50px"> 
-
+### Hello there! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50px" height="50px">
 
 ## 🙂 About Me
 
@@ -27,7 +26,6 @@
  ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
  ![MatplotLib](https://img.shields.io/badge/MatplotLib-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
- 
 
 ## 🎖️ Achievements
 
@@ -45,8 +43,6 @@
 - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-
-
 ## 🖇️ Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manobal-singh-bagady-467aa7228/)
@@ -57,13 +53,11 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manobal_S_Bagady)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManobalS_Bagady)
 
-
 ## 🎮Anime and Games🕹️
 
 [![MAL](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Manobal)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199082816824/)
-
 
 <details>
   <summary><h2>📊 GitHub Stats</h2></summary>
@@ -90,9 +84,9 @@
 
 </details>
 
+<!--START_SECTION:activity-->
 
-
-
+<!--END_SECTION:activity-->
 
 <!--
 **Manobal-Singh-Bagady/Manobal-Singh-Bagady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
