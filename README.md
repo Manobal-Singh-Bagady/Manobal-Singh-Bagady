@@ -45,17 +45,7 @@
 - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-## 📊 Statistics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=true&theme=tokyonight" alt="Sahil Kumar's GitHub Stats">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&count_private=true&show_icons=true&locale=en&layout=compact">
-  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady" alt="visitors" >
-</div>
 
 ## 🖇️ Links
 
@@ -74,15 +64,31 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199082816824/)
 
-## ⚡ Recent Projects:
+
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=true&theme=tokyonight" alt="Sahil Kumar's GitHub Stats">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&count_private=true&show_icons=true&locale=en&layout=compact">
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady" alt="visitors" >
+</div>
+
+</details>
+
+<details>
+<summary><h2>⚡ Recent Projects:</h2></summary>
 
 - [HTML tags](https://manobal-singh-bagady.github.io/HTML-tags/)
 - [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Speed-of-Loops-in-Python)
 
-
-
-
-
+</details>
 
 
 
