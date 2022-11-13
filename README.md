@@ -79,6 +79,7 @@
 <details>
 <summary><h2>⚡ Recent Projects:</h2></summary>
 
+- [CSS Helpbook](https://manobal-singh-bagady.github.io/CSS-Helpbook/)
 - [HTML tags](https://manobal-singh-bagady.github.io/HTML-tags/)
 - [Speed of Loops in Python](https://github.com/Manobal-Singh-Bagady/Speed-of-Loops-in-Python)
 
