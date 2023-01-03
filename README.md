@@ -111,7 +111,7 @@
 <details>
 <summary><h2>⚡ Recent Projects:</h2></summary>
 
-- [The Simon Game](https://msb-s-projects.github.io/The-Simon-Game/](https://github.com/MSB-s-Projects/The-Simon-Game)
+- [The Simon Game](https://github.com/MSB-s-Projects/The-Simon-Game)
 - [Drum Kit](https://github.com/MSB-s-Projects/Drum-Kit)
 - [The Dice Game](https://github.com/MSB-s-Projects/The-Dice-Game)
 - [tindog project](https://msb-s-projects.github.io/tindog-project/)
