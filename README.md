@@ -111,6 +111,9 @@
 <details>
 <summary><h2>⚡ Recent Projects:</h2></summary>
 
+- [The Simon Game](https://msb-s-projects.github.io/The-Simon-Game/)
+- [Drum Kit](msb-s-projects.github.io/Drum-Kit/)
+- [The Dice Game](https://github.com/MSB-s-Projects/The-Dice-Game)
 - [tindog project](https://msb-s-projects.github.io/tindog-project/)
 - [HTML tags](https://msb-s-projects.github.io/HTML-tags/)
 - [Speed of Loops in Python](https://github.com/MSB-s-Projects/Speed-of-Loops-in-Python)
