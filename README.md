@@ -146,6 +146,7 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
+ 
 <!--RECENT_ACTIVITY:last_update-->
 
 </details>
