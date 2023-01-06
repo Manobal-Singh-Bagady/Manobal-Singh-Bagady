@@ -146,15 +146,16 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+1. ![repoCreated] Created new repository [MSB-s-Projects/PersonalBlog-app](https://github.com/MSB-s-Projects/PersonalBlog-app)<br>
+2. ![repoCreated] Created new repository [MSB-s-Projects/express-generator-app](https://github.com/MSB-s-Projects/express-generator-app)<br>
+3. ![repoCreated] Created new repository [MSB-s-Projects/Personal-Blog](https://github.com/MSB-s-Projects/Personal-Blog)<br>
+4. ![repoCreated] Created new repository [MSB-s-Projects/Newsletter-SignUP](https://github.com/MSB-s-Projects/Newsletter-SignUP)<br>
+5. ![repoCreated] Created new repository [MSB-s-Projects/The-Weather-App](https://github.com/MSB-s-Projects/The-Weather-App)<br>
+6. ![repoCreated] Created new repository [MSB-s-Projects/The-Weather-App](https://github.com/MSB-s-Projects/The-Weather-App)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 6th, 2023, 6:38:00 PM
+<p align="center">Last refresh: <b>Saturday, January 7th, 2023, 12:43:51 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
