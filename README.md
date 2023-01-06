@@ -104,7 +104,16 @@
 <details>
   <summary><h2>📊 GitHub Stats</h2></summary>
 
-  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> 
+
+
+1. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
+2. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
+3. ❌ Closed PR [#21](https://github.com/DSA-n-DEV/Daily-Questions/pull/21) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+4. 🎉 Merged PR [#19](https://github.com/DSA-n-DEV/Daily-Questions/pull/19) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+5. 🎉 Merged PR [#18](https://github.com/DSA-n-DEV/Daily-Questions/pull/18) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+
+-->
   
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -136,12 +145,7 @@
 <details>
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
-2. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
-3. ❌ Closed PR [#21](https://github.com/DSA-n-DEV/Daily-Questions/pull/21) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
-4. 🎉 Merged PR [#19](https://github.com/DSA-n-DEV/Daily-Questions/pull/19) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
-5. 🎉 Merged PR [#18](https://github.com/DSA-n-DEV/Daily-Questions/pull/18) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>
