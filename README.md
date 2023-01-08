@@ -155,15 +155,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1374805988) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
-2. ✌️ Released [v2.0.1 Fixing Bugs](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/releases/tag/v2.0.1) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
-3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-5. ✌️ Released [v2.0.0 ui changed](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/releases/tag/v2.0.0) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
+1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
+2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/PersonalBlog-app](https://github.com/MSB-s-Projects/PersonalBlog-app)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/PersonalBlog-app](https://github.com/MSB-s-Projects/PersonalBlog-app)<br>
+4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/PersonalBlog-app](https://github.com/MSB-s-Projects/PersonalBlog-app)<br>
+5. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1374805988) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 12:33:45 PM
+Last Updated: Sunday, January 8th, 2023, 1:21:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
