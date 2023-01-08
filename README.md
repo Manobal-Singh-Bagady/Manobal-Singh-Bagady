@@ -127,7 +127,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
   <br />
-  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en&hide_border=true&theme=tokyonight" alt="Sahil Kumar's GitHub Stats">
+  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en&hide_border=true&theme=tokyonight" alt="MSB Kumar's GitHub Stats">
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&count_private=true&show_icons=true&locale=en&layout=compact">
   <br />
