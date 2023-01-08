@@ -155,15 +155,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ✌️ Released [v2.0.0 ui changed](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/releases/tag/v2.0.0) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
-3. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
-4. 🎉 Merged PR [#1](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/pull/1) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
-5. 💪 Opened PR [#1](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/pull/1) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
+1. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1374805988) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
+2. ✌️ Released [v2.0.1 Fixing Bugs](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/releases/tag/v2.0.1) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+5. ✌️ Released [v2.0.0 ui changed](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI/releases/tag/v2.0.0) in [MSB-s-Projects/Astrologer-s-Stars-GUI](https://github.com/MSB-s-Projects/Astrologer-s-Stars-GUI)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 10:18:56 AM
+Last Updated: Sunday, January 8th, 2023, 11:14:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
