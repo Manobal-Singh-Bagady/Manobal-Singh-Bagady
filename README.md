@@ -155,15 +155,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/github-readme-stats](https://github.com/Manobal-Singh-Bagady/github-readme-stats)<br>
-2. 🔱 Forked [Manobal-Singh-Bagady/github-readme-stats](https://github.com/Manobal-Singh-Bagady/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-3. 📔 Created new repository [MSB-s-Projects/.github](https://github.com/MSB-s-Projects/.github)<br>
-4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
-5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/.github](https://github.com/MSB-s-Projects/.github)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/.github](https://github.com/MSB-s-Projects/.github)<br>
+4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/.github](https://github.com/MSB-s-Projects/.github)<br>
+5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/.github](https://github.com/MSB-s-Projects/.github)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 8th, 2023, 3:18:08 PM
+Last Updated: Sunday, January 8th, 2023, 4:24:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
