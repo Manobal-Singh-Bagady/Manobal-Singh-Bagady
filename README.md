@@ -155,15 +155,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 0 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-3. ⬆️ Pushed 0 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+1. ✌️ Released [Birthday Card App](https://github.com/MSB-s-Projects/Birthday-Card-App/releases/tag/v1.0.0-helloworld) in [MSB-s-Projects/Birthday-Card-App](https://github.com/MSB-s-Projects/Birthday-Card-App)<br>
+2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Birthday-Card-App](https://github.com/MSB-s-Projects/Birthday-Card-App)<br>
+3. 📔 Created new repository [MSB-s-Projects/Birthday-Card-App](https://github.com/MSB-s-Projects/Birthday-Card-App)<br>
+4. 📔 Created new repository [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
 5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 7th, 2023, 12:56:41 AM
+Last Updated: Sunday, January 8th, 2023, 4:24:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
