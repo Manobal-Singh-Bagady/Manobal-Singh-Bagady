@@ -155,7 +155,7 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
+1. 🔱 Forked [Manobal-Singh-Bagady/nvim-config](https://github.com/Manobal-Singh-Bagady/nvim-config) from [jdhao/nvim-config](https://github.com/jdhao/nvim-config)<br>
 2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
 3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
 4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
@@ -163,7 +163,7 @@
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 10th, 2023, 10:18:57 PM
+Last Updated: Tuesday, January 10th, 2023, 11:18:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
