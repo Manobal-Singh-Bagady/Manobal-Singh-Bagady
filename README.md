@@ -129,7 +129,7 @@
   <br />
   <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en&hide_border=true&theme=tokyonight" alt="MSB Kumar's GitHub Stats">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&count_private=true&show_icons=true&locale=en">
+  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&include_all_commits=true &count_private=true&include_orgs=true&show_icons=true&locale=en&layout=compact">
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady" alt="visitors" >
 </div>
@@ -155,15 +155,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+1. 📔 Created new repository [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. 🔱 Forked [Manobal-Singh-Bagady/nvim-config](https://github.com/Manobal-Singh-Bagady/nvim-config) from [jdhao/nvim-config](https://github.com/jdhao/nvim-config)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
 4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
-5. 📔 Created new repository [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/To-Do-List](https://github.com/MSB-s-Projects/To-Do-List)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 14th, 2023, 11:17:57 PM
+Last Updated: Saturday, January 14th, 2023, 10:16:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
