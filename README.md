@@ -155,15 +155,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
-2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
-3. ⬆️ Pushed 3 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
-4. 📔 Created new repository [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
-5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/PersonalBlog-app](https://github.com/MSB-s-Projects/PersonalBlog-app)<br>
+1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
+2. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
+4. ⬆️ Pushed 3 commit(s) to [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
+5. 📔 Created new repository [MSB-s-Projects/Wiki-Api](https://github.com/MSB-s-Projects/Wiki-Api)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 19th, 2023, 6:24:05 PM
+Last Updated: Thursday, January 19th, 2023, 7:15:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
