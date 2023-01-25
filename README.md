@@ -162,15 +162,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
-2. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/mnbn](https://github.com/Manobal-Singh-Bagady/mnbn)<br>
+2. 📔 Created new repository [Manobal-Singh-Bagady/mnbn](https://github.com/Manobal-Singh-Bagady/mnbn)<br>
 3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
 4. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
 5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 25th, 2023, 4:25:54 PM
+Last Updated: Wednesday, January 25th, 2023, 5:16:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
