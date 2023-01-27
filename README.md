@@ -8,7 +8,37 @@
 
 <img src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif" width="25px" height="25px"> Other Than Technical Stuff I really like to watch **Anime**, I also like to play **Video Games**.
 
-## 🤹‍♂️Technical Skills
+
+
+<h2>📊 GitHub Stats</h2>
+
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> 
+
+
+1. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
+2. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
+3. ❌ Closed PR [#21](https://github.com/DSA-n-DEV/Daily-Questions/pull/21) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+4. 🎉 Merged PR [#19](https://github.com/DSA-n-DEV/Daily-Questions/pull/19) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+5. 🎉 Merged PR [#18](https://github.com/DSA-n-DEV/Daily-Questions/pull/18) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
+
+-->
+  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <br />
+  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en&hide_border=true&theme=tokyonight" alt="MSB's GitHub Stats">
+  <br />
+  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&count_private=true&include_orgs=true&show_icons=true&locale=en">
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady" alt="visitors" >
+</div>
+<!-- ## 🤹‍♂️Technical Skills -->
+<details>
+<Summary>
+<h2>
+🤹‍♂️Technical Skills
+</h2>
+</Summary>
 
 #### Languages :
 
@@ -18,7 +48,6 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
- 
 
 #### Web Development :
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,13 +66,13 @@
  ![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
  ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
  ![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)
- 
- 
+
+
  #### Android Development :
  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
  ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
- 
+
 
  #### Open Source:
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -80,6 +109,7 @@
  ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
  ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
  
+</details>
 
 ## 🎖️ Achievements
 
@@ -117,31 +147,6 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199082816824/)
 
-<details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-
-  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> 
-
-
-1. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
-2. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/pull/1) in [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)
-3. ❌ Closed PR [#21](https://github.com/DSA-n-DEV/Daily-Questions/pull/21) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
-4. 🎉 Merged PR [#19](https://github.com/DSA-n-DEV/Daily-Questions/pull/19) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
-5. 🎉 Merged PR [#18](https://github.com/DSA-n-DEV/Daily-Questions/pull/18) in [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)
-
--->
-  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-  <br />
-  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en&hide_border=true&theme=tokyonight" alt="MSB's GitHub Stats">
-  <br />
-  <img src="https://github-readme-stats-brqkpfqtj-msb.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&theme=tokyonight&count_private=true&include_orgs=true&show_icons=true&locale=en">
-  <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady" alt="visitors" >
-</div>
-
-</details>
 
 <details>
 <summary><h2>⚡ Recent Projects:</h2></summary>
