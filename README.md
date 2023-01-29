@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Manobal-Singh-Bagady/Stress-Me-Out](https://github.com/Manobal-Singh-Bagady/Stress-Me-Out) from [armaanbadhan/Stress-Me-Out](https://github.com/armaanbadhan/Stress-Me-Out)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/MovieDroid](https://github.com/Manobal-Singh-Bagady/MovieDroid)<br>
-3. 🔱 Forked [Manobal-Singh-Bagady/MovieDroid](https://github.com/Manobal-Singh-Bagady/MovieDroid) from [PEC-CSS/MovieDroid](https://github.com/PEC-CSS/MovieDroid)<br>
-4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/CSS-Helpbook](https://github.com/MSB-s-Projects/CSS-Helpbook)<br>
-5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 29th, 2023, 6:21:02 PM
+Last Updated: Sunday, January 29th, 2023, 7:14:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
