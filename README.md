@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#pullrequestreview-1275557986) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. ❗️ Opened issue [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. 💬 Commented on [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1#issuecomment-1407756220) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. ❗️ Opened issue [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. 🔴 Requested 1 change(s) for [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#pullrequestreview-1275596667) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. 👍 Approved [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#pullrequestreview-1275557986) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. ❗️ Opened issue [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. 💬 Commented on [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1#issuecomment-1407756220) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ❗️ Opened issue [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 30th, 2023, 5:17:42 PM
+Last Updated: Monday, January 30th, 2023, 6:23:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
