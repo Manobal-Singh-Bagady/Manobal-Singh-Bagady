@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions) from [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)<br>
-2. ⬆️ Pushed 1 commit(s) to [DSA-n-DEV/.github](https://github.com/DSA-n-DEV/.github)<br>
-3. ⬆️ Pushed 1 commit(s) to [DSA-n-DEV/.github](https://github.com/DSA-n-DEV/.github)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+3. 🔱 Forked [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions) from [DSA-n-DEV/Daily-Questions](https://github.com/DSA-n-DEV/Daily-Questions)<br>
 4. ⬆️ Pushed 1 commit(s) to [DSA-n-DEV/.github](https://github.com/DSA-n-DEV/.github)<br>
-5. 📔 Created new repository [DSA-n-DEV/.github](https://github.com/DSA-n-DEV/.github)<br>
+5. ⬆️ Pushed 1 commit(s) to [DSA-n-DEV/.github](https://github.com/DSA-n-DEV/.github)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 8:19:49 PM
+Last Updated: Tuesday, January 31st, 2023, 9:16:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
