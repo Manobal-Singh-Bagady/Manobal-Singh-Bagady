@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2#issuecomment-1409901589) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. ✔️ Closed issue [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. 💬 Commented on [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2#issuecomment-1409900419) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#issuecomment-1409891880) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. 🔴 Requested 1 change(s) for [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#pullrequestreview-1275596667) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#issuecomment-1409993749) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. 💬 Commented on [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1#issuecomment-1409984621) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. 💬 Commented on [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2#issuecomment-1409901589) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ✔️ Closed issue [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 8:23:53 AM
+Last Updated: Tuesday, January 31st, 2023, 9:18:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
