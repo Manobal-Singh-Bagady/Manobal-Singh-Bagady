@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#issuecomment-1409993749) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. 💬 Commented on [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1#issuecomment-1409984621) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. 💬 Commented on [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2#issuecomment-1409901589) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. ✔️ Closed issue [#2](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/2) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. ✔️ Closed issue [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. 🎉 Merged PR [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. 👍 Approved [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#pullrequestreview-1275600084) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#discussion_r1090915695) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 11:15:20 AM
+Last Updated: Tuesday, January 31st, 2023, 12:36:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
