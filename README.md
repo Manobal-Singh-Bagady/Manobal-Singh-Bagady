@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 🎉 Merged PR [#1](https://github.com/MSB-s-Projects/Generate-QR-code/pull/1) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. 💪 Opened PR [#1](https://github.com/MSB-s-Projects/Generate-QR-code/pull/1) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1410305931) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
+1. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1410467650) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 🎉 Merged PR [#2](https://github.com/MSB-s-Projects/Generate-QR-code/pull/2) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 2:17:07 PM
+Last Updated: Tuesday, January 31st, 2023, 3:19:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
