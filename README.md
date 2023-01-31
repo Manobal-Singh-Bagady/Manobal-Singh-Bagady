@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. 🎉 Merged PR [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. 👍 Approved [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#pullrequestreview-1275600084) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/4#discussion_r1090915695) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1410305931) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
+2. 💬 Commented on [#5](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/5#issuecomment-1410297953) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. ❗️ Opened issue [#5](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/5) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. ✔️ Closed issue [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 12:36:45 PM
+Last Updated: Tuesday, January 31st, 2023, 1:28:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
