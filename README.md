@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1410305931) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
-2. 💬 Commented on [#5](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/5#issuecomment-1410297953) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. ❗️ Opened issue [#5](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/5) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. ✔️ Closed issue [#1](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/1) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+2. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+3. 🎉 Merged PR [#1](https://github.com/MSB-s-Projects/Generate-QR-code/pull/1) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. 💪 Opened PR [#1](https://github.com/MSB-s-Projects/Generate-QR-code/pull/1) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 💬 Commented on [#15](https://github.com/TomSchimansky/CustomTkinter/issues/15#issuecomment-1410305931) in [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 1:28:09 PM
+Last Updated: Tuesday, January 31st, 2023, 2:17:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
