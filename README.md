@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/5) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. ⬆️ Pushed 3 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. 🎉 Merged PR [#6](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/6) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. 💬 Commented on [#6](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/6#issuecomment-1412521189) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. 👍 Approved [#6](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/6#pullrequestreview-1279641806) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+3. ⬆️ Pushed 4 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+4. ✔️ Closed issue [#5](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/5) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ⬆️ Pushed 3 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 1st, 2023, 9:16:30 PM
+Last Updated: Wednesday, February 1st, 2023, 10:18:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
