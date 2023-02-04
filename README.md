@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#11](https://github.com/MSB-s-Projects/Generate-QR-code/pull/11#pullrequestreview-1284098887) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. 💬 Commented on [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#issuecomment-1416810258) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 💬 Commented on [#10](https://github.com/MSB-s-Projects/Generate-QR-code/issues/10#issuecomment-1416809518) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. ❗️ Opened issue [#10](https://github.com/MSB-s-Projects/Generate-QR-code/issues/10) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 🔴 Requested 1 change(s) for [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#pullrequestreview-1284096420) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. 💬 Commented on [#8](https://github.com/MSB-s-Projects/Generate-QR-code/pull/8#issuecomment-1416825462) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+2. 🔴 Requested 1 change(s) for [#8](https://github.com/MSB-s-Projects/Generate-QR-code/pull/8#pullrequestreview-1284103926) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+3. ❌ Closed PR [#7](https://github.com/MSB-s-Projects/Generate-QR-code/pull/7) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. 🔴 Requested 3 change(s) for [#11](https://github.com/MSB-s-Projects/Generate-QR-code/pull/11#pullrequestreview-1284098887) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 💬 Commented on [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#issuecomment-1416810258) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 6:21:17 PM
+Last Updated: Saturday, February 4th, 2023, 7:13:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
