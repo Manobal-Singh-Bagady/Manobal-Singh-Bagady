@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#9](https://github.com/MSB-s-Projects/Generate-QR-code/issues/9) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. 👍 Approved [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#pullrequestreview-1284091314) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 💬 Commented on [#10](https://github.com/ken1000minus7/Bloggy/issues/10#issuecomment-1416781086) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
-4. 💬 Commented on [#11](https://github.com/ken1000minus7/Bloggy/pull/11#issuecomment-1416780572) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
-5. 💪 Opened PR [#11](https://github.com/ken1000minus7/Bloggy/pull/11) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
+1. 🔴 Requested 2 change(s) for [#11](https://github.com/MSB-s-Projects/Generate-QR-code/pull/11#pullrequestreview-1284098887) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+2. 💬 Commented on [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#issuecomment-1416810258) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+3. 💬 Commented on [#10](https://github.com/MSB-s-Projects/Generate-QR-code/issues/10#issuecomment-1416809518) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. ❗️ Opened issue [#10](https://github.com/MSB-s-Projects/Generate-QR-code/issues/10) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 🔴 Requested 1 change(s) for [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#pullrequestreview-1284096420) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 5:15:30 PM
+Last Updated: Saturday, February 4th, 2023, 6:21:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
