@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#9](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/9#issuecomment-1416847082) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. ✔️ Closed issue [#10](https://github.com/MSB-s-Projects/Generate-QR-code/issues/10) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. 🎉 Merged PR [#11](https://github.com/MSB-s-Projects/Generate-QR-code/pull/11) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 👍 Approved [#11](https://github.com/MSB-s-Projects/Generate-QR-code/pull/11#pullrequestreview-1284113823) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. ✔️ Closed issue [#9](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/9) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. 🎉 Merged PR [#10](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/10) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. 👍 Approved [#10](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/10#pullrequestreview-1284120314) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. 🔴 Requested 1 change(s) for [#10](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/10#pullrequestreview-1284117783) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 9:15:28 PM
+Last Updated: Saturday, February 4th, 2023, 10:16:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
