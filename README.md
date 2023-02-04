@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8](https://github.com/MSB-s-Projects/Generate-QR-code/pull/8#issuecomment-1416825462) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. 🔴 Requested 1 change(s) for [#8](https://github.com/MSB-s-Projects/Generate-QR-code/pull/8#pullrequestreview-1284103926) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. ❌ Closed PR [#7](https://github.com/MSB-s-Projects/Generate-QR-code/pull/7) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. 🔴 Requested 3 change(s) for [#11](https://github.com/MSB-s-Projects/Generate-QR-code/pull/11#pullrequestreview-1284098887) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 💬 Commented on [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#issuecomment-1416810258) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. 💬 Commented on [#7](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/7#issuecomment-1416832987) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. 💬 Commented on [#7](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/7#issuecomment-1416832806) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. 🔴 Requested 1 change(s) for [#7](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/7#pullrequestreview-1284108017) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. ❗️ Opened issue [#8](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/8) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. 💬 Commented on [#8](https://github.com/MSB-s-Projects/Generate-QR-code/pull/8#issuecomment-1416825462) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 7:13:42 PM
+Last Updated: Saturday, February 4th, 2023, 8:18:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
