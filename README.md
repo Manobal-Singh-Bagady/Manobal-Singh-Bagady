@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Generate-QR-code/issues/4#issuecomment-1416694206) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. 💬 Commented on [#4](https://github.com/MSB-s-Projects/Generate-QR-code/issues/4#issuecomment-1416694042) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 💬 Commented on [#5](https://github.com/MSB-s-Projects/Generate-QR-code/issues/5#issuecomment-1416693118) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+2. ⬆️ Pushed 4 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+3. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+4. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/Bloggy/pull/1) in [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+5. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/Bloggy/pull/1) in [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 2:15:27 PM
+Last Updated: Saturday, February 4th, 2023, 3:17:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
