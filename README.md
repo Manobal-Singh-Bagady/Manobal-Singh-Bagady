@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10](https://github.com/ken1000minus7/Bloggy/issues/10#issuecomment-1416781086) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
-2. 💬 Commented on [#11](https://github.com/ken1000minus7/Bloggy/pull/11#issuecomment-1416780572) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
-3. 💪 Opened PR [#11](https://github.com/ken1000minus7/Bloggy/pull/11) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
-4. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
-5. 🎉 Merged PR [#2](https://github.com/Manobal-Singh-Bagady/Bloggy/pull/2) in [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+1. ❗️ Opened issue [#9](https://github.com/MSB-s-Projects/Generate-QR-code/issues/9) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+2. 👍 Approved [#6](https://github.com/MSB-s-Projects/Generate-QR-code/pull/6#pullrequestreview-1284091314) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+3. 💬 Commented on [#10](https://github.com/ken1000minus7/Bloggy/issues/10#issuecomment-1416781086) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
+4. 💬 Commented on [#11](https://github.com/ken1000minus7/Bloggy/pull/11#issuecomment-1416780572) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
+5. 💪 Opened PR [#11](https://github.com/ken1000minus7/Bloggy/pull/11) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 4:24:26 PM
+Last Updated: Saturday, February 4th, 2023, 5:15:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
