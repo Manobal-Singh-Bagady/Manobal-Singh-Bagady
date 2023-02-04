@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
-2. ⬆️ Pushed 4 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
-3. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
-4. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/Bloggy/pull/1) in [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
-5. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/Bloggy/pull/1) in [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+1. 💬 Commented on [#10](https://github.com/ken1000minus7/Bloggy/issues/10#issuecomment-1416781086) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
+2. 💬 Commented on [#11](https://github.com/ken1000minus7/Bloggy/pull/11#issuecomment-1416780572) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
+3. 💪 Opened PR [#11](https://github.com/ken1000minus7/Bloggy/pull/11) in [ken1000minus7/Bloggy](https://github.com/ken1000minus7/Bloggy)<br>
+4. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
+5. 🎉 Merged PR [#2](https://github.com/Manobal-Singh-Bagady/Bloggy/pull/2) in [Manobal-Singh-Bagady/Bloggy](https://github.com/Manobal-Singh-Bagady/Bloggy)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 4th, 2023, 3:17:36 PM
+Last Updated: Saturday, February 4th, 2023, 4:24:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
