@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [harshjohar/stutea](https://github.com/harshjohar/stutea)<br>
-2. ⭐ Starred [PEC-CSS/slowmokit](https://github.com/PEC-CSS/slowmokit)<br>
-3. ⬆️ Pushed 13 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+3. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+4. 🎉 Merged PR [#2](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02/pull/2) in [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+5. 💪 Opened PR [#2](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02/pull/2) in [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 10th, 2023, 6:24:35 PM
+Last Updated: Friday, February 10th, 2023, 7:15:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
