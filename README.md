@@ -168,14 +168,14 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
-2. ⬆️ Pushed 4 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+2. ⬆️ Pushed 10 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
 3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
-4. ⬆️ Pushed 3 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
+5. ✌️ Released [Final Release for hackathon](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02/releases/tag/v1.0.0) in [Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02](https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 11th, 2023, 11:18:05 PM
+Last Updated: Sunday, February 12th, 2023, 1:43:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
