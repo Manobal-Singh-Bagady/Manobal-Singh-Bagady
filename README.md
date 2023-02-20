@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
-3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
-4. ⬆️ Pushed 2 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
-5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Secrets](https://github.com/MSB-s-Projects/Secrets)<br>
+1. ❌ Closed PR [#14](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/14) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+2. ❌ Closed PR [#12](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/12) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+3. 💬 Commented on [#12](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/12#issuecomment-1437418956) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+4. ✔️ Closed issue [#8](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/8) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+5. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 20th, 2023, 6:23:47 PM
+Last Updated: Monday, February 20th, 2023, 7:14:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
