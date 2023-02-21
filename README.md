@@ -167,15 +167,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#14](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/14) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-2. ❌ Closed PR [#12](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/12) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-3. 💬 Commented on [#12](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/12#issuecomment-1437418956) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-4. ✔️ Closed issue [#8](https://github.com/MSB-s-Projects/Git-scm-Clone/issues/8) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
-5. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
+4. 📔 Created new repository [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
+5. ❌ Closed PR [#14](https://github.com/MSB-s-Projects/Git-scm-Clone/pull/14) in [MSB-s-Projects/Git-scm-Clone](https://github.com/MSB-s-Projects/Git-scm-Clone)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 21st, 2023, 12:37:36 PM
+Last Updated: Tuesday, February 21st, 2023, 1:26:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
