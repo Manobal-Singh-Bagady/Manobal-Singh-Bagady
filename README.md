@@ -24,6 +24,7 @@
 -->
   
 <div align="center">
+
   ![Snake animation](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady/blob/output/github-contribution-grid-snake.svg)
   
   <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
