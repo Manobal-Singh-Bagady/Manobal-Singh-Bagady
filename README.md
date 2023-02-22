@@ -174,15 +174,15 @@
   <summary><h2>🏃‍♂️Recent Github Activity</h2></summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
-2. ⬆️ Pushed 4 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Noter](https://github.com/Manobal-Singh-Bagady/Noter)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
 <!--RECENT_ACTIVITY:end-->
  
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 22nd, 2023, 3:20:47 PM
+Last Updated: Wednesday, February 22nd, 2023, 4:27:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
