@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&theme=tokyonight" alt="MSB's GitHub Stats">
 <!--   <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact">
+  <img src="https://streak-stats.demolab.com/?user=Manobal-Singh-Bagady&theme=github-dark">
+  
+  
+  
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady" alt="visitors" >
 </div>
