@@ -26,9 +26,9 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&theme=tokyonight" alt="MSB's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&theme=github_dark&count_private=true&" alt="MSB's GitHub Stats">
 <!--   <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manobal-Singh-Bagady&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manobal-Singh-Bagady&layout=compact&theme=github_dark&langs_count=8">
   <img src="https://streak-stats.demolab.com/?user=Manobal-Singh-Bagady&theme=github-dark">
   
   
