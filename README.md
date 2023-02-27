@@ -171,15 +171,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#21](https://github.com/MSB-s-Projects/Generate-QR-code/issues/21) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. ⬆️ Pushed 4 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 🎉 Merged PR [#12](https://github.com/MSB-s-Projects/Generate-QR-code/pull/12) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. 👍 Approved [#12](https://github.com/MSB-s-Projects/Generate-QR-code/pull/12#pullrequestreview-1314748958) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 🔴 Requested 1 change(s) for [#12](https://github.com/MSB-s-Projects/Generate-QR-code/pull/12#pullrequestreview-1293790796) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. ❌ Closed PR [#27](https://github.com/MSB-s-Projects/Generate-QR-code/pull/27) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+2. 🔴 Requested 1 change(s) for [#26](https://github.com/MSB-s-Projects/Generate-QR-code/pull/26#pullrequestreview-1314752846) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+3. 👍 Approved [#26](https://github.com/MSB-s-Projects/Generate-QR-code/pull/26#pullrequestreview-1314752559) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. ❗️ Opened issue [#29](https://github.com/MSB-s-Projects/Generate-QR-code/issues/29) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 🔴 Requested 1 change(s) for [#23](https://github.com/MSB-s-Projects/Generate-QR-code/pull/23#pullrequestreview-1314751679) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 26th, 2023, 11:18:50 PM
+Last Updated: Monday, February 27th, 2023, 1:44:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
