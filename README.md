@@ -171,15 +171,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#27](https://github.com/MSB-s-Projects/Generate-QR-code/pull/27) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. 🔴 Requested 1 change(s) for [#26](https://github.com/MSB-s-Projects/Generate-QR-code/pull/26#pullrequestreview-1314752846) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 👍 Approved [#26](https://github.com/MSB-s-Projects/Generate-QR-code/pull/26#pullrequestreview-1314752559) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. ❗️ Opened issue [#29](https://github.com/MSB-s-Projects/Generate-QR-code/issues/29) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 🔴 Requested 1 change(s) for [#23](https://github.com/MSB-s-Projects/Generate-QR-code/pull/23#pullrequestreview-1314751679) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+4. ❌ Closed PR [#27](https://github.com/MSB-s-Projects/Generate-QR-code/pull/27) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 🔴 Requested 1 change(s) for [#26](https://github.com/MSB-s-Projects/Generate-QR-code/pull/26#pullrequestreview-1314752846) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 27th, 2023, 10:19:19 PM
+Last Updated: Monday, February 27th, 2023, 11:20:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
