@@ -16,9 +16,10 @@
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=Manobal-Singh-Bagady&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&theme=github_dark&count_private=true&)
+![github stats](https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&theme=github_dark&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manobal-Singh-Bagady&layout=compact&theme=github_dark&langs_count=8)
 ![streak](https://streak-stats.demolab.com/?user=Manobal-Singh-Bagady&theme=github-dark)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MSB)]
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady)
 
