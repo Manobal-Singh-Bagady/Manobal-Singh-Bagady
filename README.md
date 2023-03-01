@@ -19,12 +19,11 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Manobal-Singh-Bagady&show_icons=true&theme=github_dark&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manobal-Singh-Bagady&layout=compact&theme=github_dark&langs_count=8)
 ![streak](https://streak-stats.demolab.com/?user=Manobal-Singh-Bagady&theme=github-dark)
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MSB&theme=github_dark)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MSB&theme=github_dark&layout=compact)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady)
 [![wakatime](https://wakatime.com/badge/user/e48c3d23-0ed0-495f-a81f-e0a1e4004558.svg?style=default)](https://wakatime.com/@e48c3d23-0ed0-495f-a81f-e0a1e4004558)
-</div>
-
+</div
 <details>
   <Summary>
 
