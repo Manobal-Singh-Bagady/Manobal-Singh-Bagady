@@ -23,7 +23,7 @@
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady)
 [![wakatime](https://wakatime.com/badge/user/e48c3d23-0ed0-495f-a81f-e0a1e4004558.svg?style=default)](https://wakatime.com/@e48c3d23-0ed0-495f-a81f-e0a1e4004558)
-</div
+</div>
 <details>
   <Summary>
 
