@@ -12,7 +12,6 @@
 
 [![MSB-s-Projects](https://user-images.githubusercontent.com/96862518/222534256-b80ac784-8701-40c5-a7c7-e6b777caeddf.png)](https://github.com/MSB-s-Projects)
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -28,6 +27,7 @@
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Manobal-Singh-Bagady.Manobal-Singh-Bagady)
 [![wakatime](https://wakatime.com/badge/user/e48c3d23-0ed0-495f-a81f-e0a1e4004558.svg?style=default)](https://wakatime.com/@e48c3d23-0ed0-495f-a81f-e0a1e4004558)
+
 </div>
 <details>
   <Summary>
@@ -176,6 +176,7 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ✔️ Closed issue [#5](https://github.com/MSB-s-Projects/Generate-QR-code/issues/5) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 2. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 3. 🎉 Merged PR [#22](https://github.com/MSB-s-Projects/Generate-QR-code/pull/22) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
@@ -184,7 +185,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Thursday, March 2nd, 2023, 7:15:58 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
