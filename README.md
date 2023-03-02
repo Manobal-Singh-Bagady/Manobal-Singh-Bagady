@@ -176,18 +176,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ✔️ Closed issue [#5](https://github.com/MSB-s-Projects/Generate-QR-code/issues/5) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 🎉 Merged PR [#22](https://github.com/MSB-s-Projects/Generate-QR-code/pull/22) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. 👍 Approved [#22](https://github.com/MSB-s-Projects/Generate-QR-code/pull/22#pullrequestreview-1322405132) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. 👍 Approved [#22](https://github.com/MSB-s-Projects/Generate-QR-code/pull/22#pullrequestreview-1322405132) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+3. ✔️ Closed issue [#5](https://github.com/MSB-s-Projects/Generate-QR-code/issues/5) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+5. 🎉 Merged PR [#22](https://github.com/MSB-s-Projects/Generate-QR-code/pull/22) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated: Thursday, March 2nd, 2023, 7:15:58 PM
-
+Last Updated: Thursday, March 2nd, 2023, 8:21:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
