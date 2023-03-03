@@ -176,15 +176,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-4. ✔️ Closed issue [#5](https://github.com/MSB-s-Projects/Generate-QR-code/issues/5) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-5. ⬆️ Pushed 5 commit(s) to [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+2. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+3. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+4. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 3rd, 2023, 5:18:04 PM
+Last Updated: Friday, March 3rd, 2023, 6:25:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
