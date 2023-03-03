@@ -176,15 +176,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#32](https://github.com/MSB-s-Projects/Generate-QR-code/issues/32) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-2. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
-3. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
-4. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+1. 🔴 Requested 1 change(s) for [#31](https://github.com/MSB-s-Projects/Generate-QR-code/pull/31#pullrequestreview-1324532057) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+2. 👍 Approved [#31](https://github.com/MSB-s-Projects/Generate-QR-code/pull/31#pullrequestreview-1324530280) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+3. 🔴 Requested 1 change(s) for [#33](https://github.com/MSB-s-Projects/Generate-QR-code/pull/33#pullrequestreview-1324517455) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
+4. ❗️ Opened issue [#32](https://github.com/MSB-s-Projects/Generate-QR-code/issues/32) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
 5. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 3rd, 2023, 7:15:42 PM
+Last Updated: Friday, March 3rd, 2023, 8:20:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
