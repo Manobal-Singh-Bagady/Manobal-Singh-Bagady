@@ -176,15 +176,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ugpec79/Generate-QR-code](https://github.com/ugpec79/Generate-QR-code)<br>
-2. 🔴 Requested 1 change(s) for [#35](https://github.com/MSB-s-Projects/Generate-QR-code/pull/35#pullrequestreview-1324672215) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-3. 👍 Approved [#35](https://github.com/MSB-s-Projects/Generate-QR-code/pull/35#pullrequestreview-1324667819) in [MSB-s-Projects/Generate-QR-code](https://github.com/MSB-s-Projects/Generate-QR-code)<br>
-4. ⬆️ Pushed 3 commit(s) to [ugpec79/Generate-QR-code](https://github.com/ugpec79/Generate-QR-code)<br>
-5. ⬆️ Pushed 5 commit(s) to [ugpec79/Generate-QR-code](https://github.com/ugpec79/Generate-QR-code)<br>
+1. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+2. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+3. ⬆️ Pushed 2 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+4. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+5. ⬆️ Pushed 2 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 3rd, 2023, 11:19:43 PM
+Last Updated: Saturday, March 4th, 2023, 1:41:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
