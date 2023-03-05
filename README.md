@@ -116,7 +116,7 @@
 
 - Hacktoberfest 2022 Contributor
 - Google Kickstart 2022 Round F - 5121 Global Rank
-- 5 ⭐ Hackerrank in Python
+- 5 ⭐ Hackerrank in Python and C++
 - 2 ⭐ CodeChef
 
 [![@manobal's Holopin board](https://holopin.io/api/user/board?user=manobal)](https://holopin.io/@manobal)
