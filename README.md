@@ -176,15 +176,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AsishRaju/450-DSA](https://github.com/AsishRaju/450-DSA)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-4. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+2. ⭐ Starred [AsishRaju/450-DSA](https://github.com/AsishRaju/450-DSA)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 8th, 2023, 5:18:25 PM
+Last Updated: Wednesday, March 8th, 2023, 6:25:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details> 
