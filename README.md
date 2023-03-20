@@ -220,18 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-
 1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⭐ Starred [AsishRaju/450-DSA](https://github.com/AsishRaju/450-DSA)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+2. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+4. ⭐ Starred [AsishRaju/450-DSA](https://github.com/AsishRaju/450-DSA)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated: Monday, March 20th, 2023, 12:37:47 PM
-
+Last Updated: Monday, March 20th, 2023, 1:26:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
