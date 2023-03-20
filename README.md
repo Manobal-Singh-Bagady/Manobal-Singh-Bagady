@@ -40,16 +40,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 #### Web Development :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -63,6 +64,25 @@
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black)
+![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7.svg?style=for-the-badge&logo=Font-Awesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
+![JSON web token](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
+![lodash](https://img.shields.io/badge/Lodash-3492FF.svg?style=for-the-badge&logo=Lodash&logoColor=white)
+![mdx](https://img.shields.io/badge/MDX-1B1F24.svg?style=for-the-badge&logo=MDX&logoColor=white)
+![next](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white)
+![passport.js](https://img.shields.io/badge/Passport-34E27A.svg?style=for-the-badge&logo=Passport&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Rollup](https://img.shields.io/badge/rollup.js-EC4A3F.svg?style=for-the-badge&logo=rollupdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+![yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
 
 #### Android Development :
 
@@ -77,6 +97,8 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Github_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Github_Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![GPG](https://img.shields.io/badge/GNU%20Privacy%20Guard-0093DD.svg?style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white)
 
 #### Python Libraries :
 
@@ -86,6 +108,7 @@
 ![MatplotLib](https://img.shields.io/badge/MatplotLib-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 
 #### IDE and Tools :
 
@@ -97,18 +120,35 @@
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![NVIM](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Adblock Plus](https://img.shields.io/badge/Adblock%20Plus-C70D2C.svg?style=for-the-badge&logo=Adblock-Plus&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3.svg?style=for-the-badge&logo=Chocolatey&logoColor=white)
+![Codepen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white)
+![Codesandbox](https://img.shields.io/badge/CodeSandbox-151515.svg?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C.svg?style=for-the-badge&logo=Dependabot&logoColor=white)
+![ESlint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)
+![G-Drive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white)
+![Grammarly](https://img.shields.io/badge/Grammarly-15C39A.svg?style=for-the-badge&logo=Grammarly&logoColor=white)
+![miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)
 
 #### Operating System :
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 #### Learning Platforms:
 
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
+![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620.svg?style=for-the-badge&logo=Coding-Ninjas&logoColor=white)
+![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)
 
 </details>
 
@@ -130,6 +170,7 @@
   ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
   ![AdBlock Plus](https://img.shields.io/badge/Adblock%20Plus-C70D2C.svg?style=for-the-badge&logo=Adblock-Plus&logoColor=white)
   ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe-Acrobat-Reader&logoColor=white)
+  ![Logitech](https://img.shields.io/badge/Logitech-00B8FC.svg?style=for-the-badge&logo=Logitech&logoColor=white)
 
 ## 🖇️ Links
 
@@ -140,10 +181,12 @@
 [![Cpdeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/manobalsinghbagady)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Manobal_S_Bagady)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManobalS_Bagady)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manobalsinghbagdy/)
 
 ## 🎮Anime and Games🕹️
 
 [![MAL](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Manobal)
+[![Anilist](https://img.shields.io/badge/AniList-02A9FF.svg?style=for-the-badge&logo=AniList&logoColor=white)](https://anilist.co/user/Manobal/)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199082816824/)
 
@@ -176,6 +219,7 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
 2. ⭐ Starred [AsishRaju/450-DSA](https://github.com/AsishRaju/450-DSA)<br>
 3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Daily-Questions](https://github.com/Manobal-Singh-Bagady/Daily-Questions)<br>
@@ -184,7 +228,9 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Monday, March 20th, 2023, 10:21:15 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
-</details> 
+</details>
