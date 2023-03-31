@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
-2. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
-3. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Peek-it](https://github.com/Manobal-Singh-Bagady/Peek-it)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+1. ⬆️ Pushed 4 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+2. ⬆️ Pushed 5 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+3. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+4. ⬆️ Pushed 1 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Peek-it](https://github.com/Manobal-Singh-Bagady/Peek-it)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 31st, 2023, 7:16:12 AM
+Last Updated: Friday, March 31st, 2023, 8:22:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
