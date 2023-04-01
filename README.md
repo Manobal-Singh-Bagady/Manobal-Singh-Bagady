@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/.leetcode](https://github.com/Manobal-Singh-Bagady/.leetcode)<br>
-2. 🔱 Forked [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter) from [Vaibhav1808/NewsLetter](https://github.com/Vaibhav1808/NewsLetter)<br>
-3. ❗️ Opened issue [#1](https://github.com/Vaibhav1808/NewsLetter/issues/1) in [Vaibhav1808/NewsLetter](https://github.com/Vaibhav1808/NewsLetter)<br>
-4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/Newsletter-SignUP](https://github.com/MSB-s-Projects/Newsletter-SignUP)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/.leetcode](https://github.com/Manobal-Singh-Bagady/.leetcode)<br>
+1. 💪 Opened PR [#2](https://github.com/Vaibhav1808/NewsLetter/pull/2) in [Vaibhav1808/NewsLetter](https://github.com/Vaibhav1808/NewsLetter)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
+5. ⬆️ Pushed 0 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 1st, 2023, 10:15:26 PM
+Last Updated: Saturday, April 1st, 2023, 11:15:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
