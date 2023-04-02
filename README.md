@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/Vaibhav1808/NewsLetter/pull/2) in [Vaibhav1808/NewsLetter](https://github.com/Vaibhav1808/NewsLetter)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
-5. ⬆️ Pushed 0 commit(s) to [Manobal-Singh-Bagady/NewsLetter](https://github.com/Manobal-Singh-Bagady/NewsLetter)<br>
+1. ⬆️ Pushed 26 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+2. ⬆️ Pushed 8 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/.leetcode](https://github.com/Manobal-Singh-Bagady/.leetcode)<br>
+4. ⬆️ Pushed 6 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+5. ⬆️ Pushed 4 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 1st, 2023, 11:15:58 PM
+Last Updated: Sunday, April 2nd, 2023, 1:33:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
