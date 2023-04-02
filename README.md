@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 26 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
-2. ⬆️ Pushed 8 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/.leetcode](https://github.com/Manobal-Singh-Bagady/.leetcode)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/.leetcode](https://github.com/Manobal-Singh-Bagady/.leetcode)<br>
 3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/.leetcode](https://github.com/Manobal-Singh-Bagady/.leetcode)<br>
-4. ⬆️ Pushed 6 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
-5. ⬆️ Pushed 4 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+4. ⬆️ Pushed 26 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
+5. ⬆️ Pushed 8 commit(s) to [PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401](https://github.com/PEC-Assignments/Open-Elective-II_Analysis-and-Design-of-Algorithms_CS6401)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 2nd, 2023, 10:16:42 AM
+Last Updated: Sunday, April 2nd, 2023, 11:13:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
