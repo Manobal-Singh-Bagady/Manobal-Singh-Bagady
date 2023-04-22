@@ -10,7 +10,7 @@
 
 #### - All projects I make are stored in my Organization [MSB](https://github.com/MSB-s-Projects).
 
-[![MSB-s-Projects](https://user-images.githubusercontent.com/96862518/222534256-b80ac784-8701-40c5-a7c7-e6b777caeddf.png)](https://github.com/MSB-s-Projects)
+[![MSB-s-Projects](https://user-images.githubusercontent.com/96862518/233804224-da0944f5-1009-490d-bd27-228e32611aab.png)](https://github.com/MSB-s-Projects)
 
 ## 📊 GitHub Stats
 
