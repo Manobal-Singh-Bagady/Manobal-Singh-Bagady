@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
-2. ⬆️ Pushed 3 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 5th, 2023, 8:17:16 PM
+Last Updated: Monday, June 5th, 2023, 9:14:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
