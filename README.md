@@ -224,11 +224,11 @@
 2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Striver-A2Z-DSA](https://github.com/Manobal-Singh-Bagady/Striver-A2Z-DSA)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 14th, 2023, 9:14:43 PM
+Last Updated: Wednesday, June 14th, 2023, 10:15:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
