@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/CP](https://github.com/Manobal-Singh-Bagady/CP)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/CP](https://github.com/Manobal-Singh-Bagady/CP)<br>
-3. ⬆️ Pushed 2 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-4. 🎉 Merged PR [#10](https://github.com/DSA-n-DEV/Resources-Library/pull/10) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-5. 💬 Commented on [#10](https://github.com/DSA-n-DEV/Resources-Library/pull/10#issuecomment-1767746822) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+1. ⬆️ Pushed 3 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+2. 🎉 Merged PR [#20](https://github.com/DSA-n-DEV/Resources-Library/pull/20) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+3. 👍 Approved [#20](https://github.com/DSA-n-DEV/Resources-Library/pull/20#pullrequestreview-1691391347) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+4. 👍 Approved [#20](https://github.com/DSA-n-DEV/Resources-Library/pull/20#pullrequestreview-1691391347) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+5. ⬆️ Pushed 4 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 22nd, 2023, 7:13:50 AM
+Last Updated: Sunday, October 22nd, 2023, 8:18:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
