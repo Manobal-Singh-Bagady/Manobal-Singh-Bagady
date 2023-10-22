@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-2. 🎉 Merged PR [#20](https://github.com/DSA-n-DEV/Resources-Library/pull/20) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-3. 👍 Approved [#20](https://github.com/DSA-n-DEV/Resources-Library/pull/20#pullrequestreview-1691391347) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-4. 👍 Approved [#20](https://github.com/DSA-n-DEV/Resources-Library/pull/20#pullrequestreview-1691391347) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-5. ⬆️ Pushed 4 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+1. ⬆️ Pushed 2 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+2. 🎉 Merged PR [#32](https://github.com/DSA-n-DEV/Resources-Library/pull/32) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+3. 👍 Approved [#32](https://github.com/DSA-n-DEV/Resources-Library/pull/32#pullrequestreview-1691392752) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+4. ⬆️ Pushed 2 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+5. 🎉 Merged PR [#31](https://github.com/DSA-n-DEV/Resources-Library/pull/31) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 22nd, 2023, 8:18:44 AM
+Last Updated: Sunday, October 22nd, 2023, 9:14:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
