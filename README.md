@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/CP](https://github.com/Manobal-Singh-Bagady/CP)<br>
-4. ⬆️ Pushed 2 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-5. 🎉 Merged PR [#32](https://github.com/DSA-n-DEV/Resources-Library/pull/32) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+2. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/CP](https://github.com/Manobal-Singh-Bagady/CP)<br>
+5. ⬆️ Pushed 2 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 24th, 2023, 8:17:28 PM
+Last Updated: Tuesday, October 24th, 2023, 9:14:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
