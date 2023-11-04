@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#39](https://github.com/DSA-n-DEV/Resources-Library/pull/39#issuecomment-1786470139) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-2. ❌ Closed PR [#39](https://github.com/DSA-n-DEV/Resources-Library/pull/39) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-3. 🔴 Requested 1 change(s) for [#39](https://github.com/DSA-n-DEV/Resources-Library/pull/39#pullrequestreview-1705469709) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-4. ⬆️ Pushed 3 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
-5. 🎉 Merged PR [#40](https://github.com/DSA-n-DEV/Resources-Library/pull/40) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+2. 💬 Commented on [#39](https://github.com/DSA-n-DEV/Resources-Library/pull/39#issuecomment-1786470139) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+3. ❌ Closed PR [#39](https://github.com/DSA-n-DEV/Resources-Library/pull/39) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+4. 🔴 Requested 1 change(s) for [#39](https://github.com/DSA-n-DEV/Resources-Library/pull/39#pullrequestreview-1705469709) in [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
+5. ⬆️ Pushed 3 commit(s) to [DSA-n-DEV/Resources-Library](https://github.com/DSA-n-DEV/Resources-Library)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 4th, 2023, 9:14:31 AM
+Last Updated: Saturday, November 4th, 2023, 10:16:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
