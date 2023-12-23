@@ -221,14 +221,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+2. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
 3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-4. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/MSB-Portfolio](https://github.com/Manobal-Singh-Bagady/MSB-Portfolio)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/MSB-Portfolio](https://github.com/Manobal-Singh-Bagady/MSB-Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 23rd, 2023, 2:14:19 PM
+Last Updated: Saturday, December 23rd, 2023, 3:15:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
