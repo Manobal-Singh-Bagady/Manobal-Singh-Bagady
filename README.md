@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
-3. 📔 Created new repository [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
+5. 📔 Created new repository [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 5:14:25 PM
+Last Updated: Wednesday, January 3rd, 2024, 6:21:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
