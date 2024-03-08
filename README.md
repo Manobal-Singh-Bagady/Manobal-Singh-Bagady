@@ -220,15 +220,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
+1. ⬆️ Pushed 1 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
 2. ⬆️ Pushed 1 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
-3. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
+3. ⬆️ Pushed 2 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
+4. ⬆️ Pushed 1 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
+5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 8th, 2024, 9:14:50 PM
+Last Updated: Friday, March 8th, 2024, 10:17:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
