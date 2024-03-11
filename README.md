@@ -195,26 +195,6 @@
 
   <summary>
 
-## ⚡ Recent Projects :
-
-  </summary>
-
-- [Personal Blog App](https://github.com/MSB-s-Projects/PersonalBlog-app)
-- [Newsletter SignUp Website](https://github.com/MSB-s-Projects/Newsletter-SignUP)
-- [The Weather App](https://github.com/MSB-s-Projects/The-Weather-App)
-- [The Simon Game](https://github.com/MSB-s-Projects/The-Simon-Game)
-- [Drum Kit](https://github.com/MSB-s-Projects/Drum-Kit)
-- [The Dice Game](https://github.com/MSB-s-Projects/The-Dice-Game)
-- [tindog project](https://msb-s-projects.github.io/tindog-project/)
-- [HTML tags](https://msb-s-projects.github.io/HTML-tags/)
-- [Speed of Loops in Python](https://github.com/MSB-s-Projects/Speed-of-Loops-in-Python)
-
-</details>
-
-<details>
-
-  <summary>
-
 ## 🏃‍♂️Recent Github Activity
 
   </summary>
