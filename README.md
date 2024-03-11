@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 1 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
-3. ⬆️ Pushed 13 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
-4. 🎉 Merged PR [#2](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV/pull/2) in [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
-5. ⬆️ Pushed 21 commit(s) to [Chanpreetk03/TRINIT_NoClueInc_DEV](https://github.com/Chanpreetk03/TRINIT_NoClueInc_DEV)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 11th, 2024, 5:17:55 AM
+Last Updated: Monday, March 11th, 2024, 6:22:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
