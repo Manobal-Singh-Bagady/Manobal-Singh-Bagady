@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/JobsApp-Spring](https://github.com/Manobal-Singh-Bagady/JobsApp-Spring)<br>
 2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course](https://github.com/Manobal-Singh-Bagady/Code-With-Mosh-Ultimate-Java-Course)<br>
+3. 📔 Created new repository [Manobal-Singh-Bagady/JobsApp-Spring](https://github.com/Manobal-Singh-Bagady/JobsApp-Spring)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 26th, 2024, 11:19:15 PM
+Last Updated: Monday, May 27th, 2024, 1:20:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
