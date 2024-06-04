@@ -1,0 +1,104 @@
+"" .ideavimrc is a configuration file for IdeaVim plugin. It uses
+"  the same commands as the original .vimrc configuration.
+" You can find a list of commands here: https://jb.gg/h38q75
+" Find more examples here: https://jb.gg/share-ideavimrc
+
+let mapleader = " "
+
+
+"" -- Suggested options --
+
+" Show a few lines of context around the cursor. Note that this makes the text scroll if you mouse-click near the start or end of the window.
+set scrolloff=5
+" Do incremental searching.
+set incsearch
+" Don't use Ex mode, use Q for formatting.
+map Q gq
+" set clipboard to unnamed
+set clipboard+=unnamedplus
+" set relative line numbers
+set relativenumber number
+
+
+" --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
+
+" Highlight copied text
+Plug 'machakann/vim-highlightedyank'
+" Commentary plugin
+Plug 'tpope/vim-commentary'
+" NERDTree plugin
+Plug 'preservim/nerdtree'
+map <leader>n :NERDTreeToggle<CR>
+map <C-n> :NERDTree<CR>
+" surround plugin
+Plug 'tpope/vim-surround'
+" multiple-cursors plugin
+Plug 'mg979/vim-visual-multi'
+" easymotion plugin
+Plug 'easymotion/vim-easymotion'
+map <C-f> <Plug>(easymotion-s)
+map <leader>f <Plug>(easymotion-f)
+
+
+"" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
+
+" set Home key to go to the beginning of the line
+nnoremap <Home> ^
+inoremap <Home> <C-o>^
+" Map Alt-j/Alt-k to move lines up and down
+nnoremap <A-j> :m .+1<CR>==
+nnoremap <A-k> :m .-2<CR>==
+inoremap <A-j> <Esc>:m .+1<CR>==gi
+inoremap <A-k> <Esc>:m .-2<CR>==gi
+vnoremap <A-j> :m '>+1<CR>gv=gv
+vnoremap <A-k> :m '<-2<CR>gv=gv
+" Scrolling
+nmap <C-j> <C-d>zz
+nmap <C-k> <C-u>zz
+" move between tabs
+nnoremap <A-h> <C-w>h
+nnoremap <A-l> <C-w>l
+" copy line
+nnoremap <A-C-j> Yp
+nnoremap <A-c-k> YP
+" save file
+nnoremap <leader>s :w<CR>
+" select all
+nnoremap <leader>a ggVG
+" remap $ and ^
+map H ^
+map L $
+
+""---- Idea Actions ----
+
+" Map <space>l to the Reformat Code action
+map <leader>l <Action>(ReformatCode)
+" Optimize Imports
+map <leader>o <Action>(OptimizeImports)
+" Map <space>r to the Run Code action
+map <leader>r <Action>(Run)
+" tab switching
+nmap <C-h> <action>(PreviousTab)
+nmap <C-l> <action>(NextTab)
+" Generate
+nmap <leader>i <action>(Generate)
+" Error
+nmap <leader>/ <action>(ShowErrorDescription)
+nmap <leader>e <action>(GotoNextError)
+" Breakpoint
+map <leader>b <Action>(ToggleLineBreakpoint)
+" Distraction Free Mode
+map <leader>z <Action>(ToggleDistractionFreeMode)
+" Terminal
+map <leader>t <Action>(ActivateTerminalToolWindow)
+" Navigation 
+nnoremap <leader>\ :action MoveTabRight<CR>
+nnoremap <leader>- :action MoveTabDown<CR>
+nnoremap <leader>m :action MoveEditorToOppositeTabGroup<CR>
+" Hide Run window
+map <leader>h <Action>(HideActiveWindow)
+" Close Non-Active Windows
+map <leader>w <Action>(CloseAllEditorsButActive)
+" multiple carets
+map <A-S-J> :action EditorCloneCaretBelow<CR>
+map <A-S-K> :action EditorCloneCaretAbove<CR>
