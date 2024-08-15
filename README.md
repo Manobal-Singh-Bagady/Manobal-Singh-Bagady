@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Manobal-Singh-Bagady](https://github.com/Manobal-Singh-Bagady/Manobal-Singh-Bagady)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/JobsApp-Spring](https://github.com/Manobal-Singh-Bagady/JobsApp-Spring)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
-4. 📔 Created new repository [Manobal-Singh-Bagady/JobsApp-Spring](https://github.com/Manobal-Singh-Bagady/JobsApp-Spring)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-Java](https://github.com/Manobal-Singh-Bagady/Learning-Java)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 10:18:47 PM
+Last Updated: Thursday, August 15th, 2024, 2:23:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
