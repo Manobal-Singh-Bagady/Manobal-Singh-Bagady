@@ -201,14 +201,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/StriverA2ZJava](https://github.com/Manobal-Singh-Bagady/StriverA2ZJava)<br>
 3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 16th, 2024, 8:20:49 PM
+Last Updated: Friday, August 16th, 2024, 9:18:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
