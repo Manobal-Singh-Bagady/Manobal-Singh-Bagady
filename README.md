@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [in28minutes/master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
 2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
-4. 📔 Created new repository [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
-5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/BookStoreServlet](https://github.com/MSB-s-Projects/BookStoreServlet)<br>
+3. ⭐ Starred [in28minutes/master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 29th, 2024, 9:21:17 AM
+Last Updated: Sunday, September 29th, 2024, 10:20:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
