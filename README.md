@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
-2. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/spring-in28minutes/pull/1) in [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
-3. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/spring-in28minutes/pull/1) in [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+2. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
+3. 🎉 Merged PR [#1](https://github.com/Manobal-Singh-Bagady/spring-in28minutes/pull/1) in [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
+4. 💪 Opened PR [#1](https://github.com/Manobal-Singh-Bagady/spring-in28minutes/pull/1) in [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
 5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/spring-in28minutes](https://github.com/Manobal-Singh-Bagady/spring-in28minutes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 22nd, 2024, 6:29:08 PM
+Last Updated: Tuesday, October 22nd, 2024, 7:18:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
