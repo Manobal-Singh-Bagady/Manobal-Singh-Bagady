@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
-4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/GeekForGeeksProblems](https://github.com/Manobal-Singh-Bagady/GeekForGeeksProblems)<br>
+1. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+2. 🎉 Merged PR [#3](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python/pull/3) in [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+3. 💪 Opened PR [#3](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python/pull/3) in [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 1st, 2024, 9:22:13 AM
+Last Updated: Friday, November 1st, 2024, 10:23:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
