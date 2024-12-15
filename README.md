@@ -201,14 +201,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-2. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+3. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
 4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-5. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 15th, 2024, 6:29:10 PM
+Last Updated: Sunday, December 15th, 2024, 7:16:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
