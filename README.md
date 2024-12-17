@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-4. ⬆️ Pushed 2 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
-5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/Learning-DSA-in-Python](https://github.com/Manobal-Singh-Bagady/Learning-DSA-in-Python)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 17th, 2024, 5:22:16 AM
+Last Updated: Tuesday, December 17th, 2024, 6:32:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
