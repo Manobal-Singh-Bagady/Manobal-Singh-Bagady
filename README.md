@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
-2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
-3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/DSA-Notes](https://github.com/Manobal-Singh-Bagady/DSA-Notes)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/DSA-Notes](https://github.com/Manobal-Singh-Bagady/DSA-Notes)<br>
+3. 📔 Created new repository [Manobal-Singh-Bagady/DSA-Notes](https://github.com/Manobal-Singh-Bagady/DSA-Notes)<br>
 4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
 5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 1st, 2025, 5:17:16 PM
+Last Updated: Wednesday, January 1st, 2025, 6:28:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
