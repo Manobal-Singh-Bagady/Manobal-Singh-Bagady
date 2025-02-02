@@ -204,11 +204,11 @@
 2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
 3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
 4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
-5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JobsApp-Spring](https://github.com/MSB-s-Projects/JobsApp-Spring)<br>
+5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 2nd, 2025, 2:16:46 PM
+Last Updated: Sunday, February 2nd, 2025, 3:20:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
