@@ -200,15 +200,15 @@
   </summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
-2. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
-3. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
-4. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
-5. ⬆️ Pushed 1 commit(s) to [MSB-s-Projects/JOURNALr](https://github.com/MSB-s-Projects/JOURNALr)<br>
+1. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+2. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+3. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+4. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
+5. ⬆️ Pushed 1 commit(s) to [Manobal-Singh-Bagady/LeetCodeProblems](https://github.com/Manobal-Singh-Bagady/LeetCodeProblems)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 3rd, 2025, 1:25:07 PM
+Last Updated: Monday, February 3rd, 2025, 2:20:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
